@@ -365,30 +365,56 @@ async function fetchClientData() {
 const staticClients = [
   {
     webUrl: "https://web.busyness.app/",
-    businessName: "Medication Delivery",
-    logoUrl: "images/medicine_delivery.png",
+    businessName: "Home Services",
+    logoUrl: "images/homeservices.png",
   },
   {
     webUrl: "https://web.busyness.app/",
-    businessName: "Doctor Consultation Online",
-    logoUrl: "images/online.png",
+    businessName: "Drivers",
+    logoUrl: "images/driver.png",
   },
   {
     webUrl: "https://web.busyness.app/",
-    businessName: "Offline Doctor Consultation",
-    logoUrl: "images/offline.png",
+    businessName: "Caretakers",
+    logoUrl: "images/caretakers.png",
   },
   {
     webUrl: "https://web.busyness.app/",
-    businessName: "OHC B2B Doctor & Nurses",
-    logoUrl: "images/ohb.png",
+    businessName: "Makeup Artists",
+    logoUrl: "images/makeupartist.png",
   },
   {
     webUrl: "https://web.busyness.app/",
-    businessName: "Annual Health Checkups",
-    logoUrl: "images/Annual_check.png",
+    businessName: "Chefs",
+    logoUrl: "images/chef.png",
+  },
+  {
+    webUrl: "https://web.busyness.app/",
+    businessName: "Technicians",
+    logoUrl: "images/technicians.png",
+  },
+  {
+    webUrl: "https://web.busyness.app/",
+    businessName: "Interior Designers",
+    logoUrl: "images/interiordesigner.png",
+  },
+  {
+    webUrl: "https://web.busyness.app/",
+    businessName: "Event Organizers",
+    logoUrl: "images/eventorganizers.png",
+  },
+  {
+    webUrl: "https://web.busyness.app/",
+    businessName: "Consultants",
+    logoUrl: "images/consultant.png",
+  },
+  {
+    webUrl: "https://web.busyness.app/",
+    businessName: "Doctors",
+    logoUrl: "images/doctors.png",
   }
 ];
+
 
 async function generateCards() {
   const slider = document.getElementById("company_slider");
