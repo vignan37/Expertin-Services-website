@@ -227,7 +227,7 @@ button:focus,
     margin-right: 10%;
 }
 
-#our_vision_bg{
+#our_features_bg{
     background-color: var(--bg-white);
     border-radius: 30px;
     position: relative;
@@ -680,7 +680,7 @@ header.fixed .navbar {
 .banner_section::after {
     content: "";
     display: block;
-    background-image: url(../images/banner-shape.svg);
+    background-image: url(../images/banner-shape_blue.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -1167,7 +1167,7 @@ header.fixed .navbar {
     position: absolute;
     left: 0;
     top: 5px;
-    background-image: url(../images/right_icon_yellow-min.png);
+    background-image: url(../images/check.png);
     width: 22px;
     height: 22px;
     background-repeat: no-repeat;
@@ -1815,7 +1815,7 @@ iframe#youtubevideo {
 }
 
 .free_app_section .container .free_app_inner {
-    background-color: #4e3822;
+    background-color: #2A4996;
     border-radius: 30px;
     padding: 20px 100px;
     padding-bottom: 50px;
@@ -2066,7 +2066,7 @@ footer {
 }
 
 footer .top_footer {
-    background-color: #4e3822;
+    background-color: #2A4996;
     padding: 80px 0 60px 0;
     position: relative;
     overflow: hidden;
@@ -2144,7 +2144,7 @@ footer .app_btn li:last-child {
 }
 
 footer .bottom_footer {
-    background-color: #392919;
+    background-color: #3d5ba1;
 }
 
 /* footer heading and text colors variable */
