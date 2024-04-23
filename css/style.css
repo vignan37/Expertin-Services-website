@@ -2194,7 +2194,7 @@ footer .bottom_footer .developer_text a {
 .go_top {
     position: fixed;
     right: 30px;
-    bottom: 75px;
+    bottom: 10px;
     cursor: pointer;
     transition: .4s all;
     opacity: 0;
