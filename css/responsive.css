@@ -124,7 +124,7 @@
     .banner_section .banner_slider .right_icon {right: 0;}
 
     /* features section */
-    .features_section .feature_detail .feature_img {width: 275px;}
+    .features_section .feature_detail .feature_img {width: 275px; top : 80px}
     .features_section .feature_detail .feature_box .data_block {margin-bottom: 30px;}
     .features_section .feature_detail .feature_box {width: 200px;}
 
